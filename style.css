@@ -30,8 +30,8 @@ body {
 }
 
 a {
-	color: indianred;
-	text-decoration: underline;
+	color: mediumpurple;
+	text-decoration: none
 }
 
 pre, #prompt {
