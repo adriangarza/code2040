@@ -86,7 +86,7 @@ function fancyRender(text, color, size) {
         color = "inherit"
     }
     if (size == undefined) {
-        size = "10"
+        size = "11"
     }
     pre += "color:" + color + "; "
     pre += "font-size:" + size + 'pt;"'
